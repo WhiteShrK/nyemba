@@ -1,5 +1,5 @@
-# nyemba
-school staff:::
-its a csharp program which will be more or less of an ATM
-thus its more like a mobile banking system;
-also am a studient who is using introduction knowledge
+#NYEMBA
+Solution to Errors
+you can follow me on twitter @talentnyemba
+https://www.facebook.com/lisborn.nyemba
+https://www.instagram.com/talentnyemba/
